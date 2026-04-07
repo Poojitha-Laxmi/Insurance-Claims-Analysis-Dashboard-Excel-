@@ -70,6 +70,9 @@ This dashboard demonstrates how data can be used to uncover patterns in insuranc
 📷 Dashboard Preview
 <img width="996" height="636" alt="image" src="https://github.com/user-attachments/assets/7c25b73c-7e73-44a4-a247-3ab81eb50155" />
 
+<img width="1227" height="645" alt="image" src="https://github.com/user-attachments/assets/4c21c23d-cf65-4eec-8815-b964f20e5910" />
+
+
 
 
 ⭐ If you found this useful, consider giving it a star!
